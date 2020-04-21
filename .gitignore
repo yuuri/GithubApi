@@ -1,0 +1,7 @@
+
+.idea
+*.idea
+*.py[doc]
+*.log
+*.lock
+config/const.py
